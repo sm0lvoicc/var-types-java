@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/var-types/var-types.iml" filepath="$PROJECT_DIR$/var-types/var-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/var-types-java.iml" filepath="$PROJECT_DIR$/.idea/var-types-java.iml" />
+    </modules>
+  </component>
+</project>
